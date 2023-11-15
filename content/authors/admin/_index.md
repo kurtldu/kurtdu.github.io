@@ -3,7 +3,7 @@
 title: Yuhao Du 杜宇豪
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Kurt Du'
 
 # Full name (for SEO)
 first_name: Yuhao
